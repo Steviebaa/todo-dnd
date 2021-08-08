@@ -35,7 +35,6 @@ class App extends Component {
 	componentDidMount() {
 		firebase.auth().onAuthStateChanged((user) => {
 			if (user) {
-
 				db.watchProfile((data) => this.setState({ user: data }));
 				db.watchBoard((data) => this.setState({ data: { ...this.state.data, ...data } }));
 				db.watchColumns((data) =>
