@@ -108,7 +108,6 @@ export const Column = ({ column, tasks, index, data, isDragging }) => {
 							variant='h5'
 							onClick={onTitleClick}
 							{...provided.dragHandleProps}
-							className={classes.title}
 						>
 							{column.title}
 						</Typography>
