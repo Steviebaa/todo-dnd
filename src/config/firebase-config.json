@@ -1,8 +1,8 @@
 {
-	"apiKey": "AIzaSyBdE6d8IlBwFU_HJV097bOlz5CqXyPwGpU",
+	"apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
 	"authDomain": "todo-dnd-post-course.firebaseapp.com",
 	"projectId": "todo-dnd-post-course",
 	"storageBucket": "todo-dnd-post-course.appspot.com",
-	"messagingSenderId": "119229878555",
-	"appId": "1:119229878555:web:06fd0827b8f96b2a2c43be"
+	"messagingSenderId": "XXXXXXXX",
+	"appId": "1:XXXXXXXX:web:XXXXXXXXXXXXXXXX"
 }
